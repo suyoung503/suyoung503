@@ -10,6 +10,8 @@ API·데이터베이스·화면이 함께 동작하는 서비스를 구현하고
 | [AI 기술 면접 연습 플랫폼](https://github.com/suyoung503/AI_interview) | 면접 답변에 AI 피드백과 점수를 제공하는 백엔드 서비스 | Java, Spring Boot, JPA, MySQL, JWT, Claude API |
 | [맡겨멍](https://github.com/suyoung503/Dog_Kindergarden) | 반려견 유치원·호텔의 지도 탐색, 예약, 채팅을 연결하는 iOS 앱 · **In Progress** | SwiftUI, Kakao Maps, TypeScript, Hono, Cloudflare Workers, D1 |
 | [Codi Shopping Mall](https://github.com/suyoung503/codi-shopping-mall) | 코디 이미지와 관련 상품을 연결하고 회원·장바구니 기능을 구현한 개인 웹 프로젝트 | JavaScript, Node.js, Express, MySQL, EJS |
+| [Heart Disease ML](https://github.com/suyoung503/heart-disease-ml) | 심장병 유무 분류와 Logistic Regression 계수 해석을 다룬 2인 팀 프로젝트 | Python, pandas, scikit-learn, Jupyter |
+| [Embedded Temperature Alarm](https://github.com/suyoung503/embedded-temperature-alarm) | 센서·FND·LED·버저와 6개 RTOS 태스크를 연결한 온도 경보 시스템 | C, ATmega128, uC/OS-II, TWI, Interrupt |
 
 ## 프로젝트에서 다루는 영역
 
